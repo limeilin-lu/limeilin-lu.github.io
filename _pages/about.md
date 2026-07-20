@@ -9,7 +9,7 @@ redirect_from:
 
 I am affiliated with Dalian Maritime University.
 
-My research interests include electronic design automation, circuit intelligence, and graph-based machine learning.
+My research interests include Date Mining, AI4Science, Graph Machine Learning.
 
 ## Publications
 
